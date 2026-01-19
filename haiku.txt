@@ -1,2 +1,3 @@
 We are git-ing good
-Practicing github today 
+Practicing github today
+Strumming my git-tar
